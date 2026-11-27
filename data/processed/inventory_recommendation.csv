@@ -1,0 +1,2 @@
+item_id,average_daily_demand,lead_time_days,safety_stock,reorder_point,current_stock,stock_on_order,reserved_stock,net_stock_position,target_stock,recommended_order_quantity,inventory_status
+HOBBIES_1_048,7.25,5,36,73,60,20,10,70,102,32,REORDER REQUIRED

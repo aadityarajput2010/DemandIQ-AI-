@@ -1,0 +1,10 @@
+
+.venv/
+.venv64/
+__pycache__/
+*.pyc
+.env
+.vscode/
+data/raw/sales_train_validation.csv
+data/processed/multi_store_features.csv
+data/processed/sales_long_multi_store_sample.csv

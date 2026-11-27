@@ -1,0 +1,10 @@
+metric,value
+Products,100.0
+Stores,1.0
+Training Records,152300.0
+Testing Records,38300.0
+MAE,1.152
+RMSE,2.61
+R2 Score,0.346
+Actual Average Sales,1.222
+Predicted Average Sales,1.235
